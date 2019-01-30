@@ -7,5 +7,6 @@ urlpatterns = [
     path('api/', include('monitor.api.urls')),
     path('rest-auth/', include('rest_auth.urls')),
     path('rest-auth/registration/', include('rest_auth.registration.urls')),
-    re_path(r'.*', TemplateView.as_view(template_name='index.html'))
+    #:wq
+    #  re_path(r'.*', TemplateView.as_view(template_name='index.html'))
 ]
