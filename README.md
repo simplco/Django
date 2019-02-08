@@ -1,2 +1,1 @@
 # Home-Energy-Monitor
-I Created the backend logic of a Home Energy Monitor, using Django. This application will soon be able to record user energy consumption through a hardware feature, where all data will be stored and managed through the Django Framework. Through the React Framework, I will be able to handle all requests from the user. This application is still a work in progress, and is currently an active project.
